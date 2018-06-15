@@ -1,0 +1,20 @@
+{
+  "result":[
+    {
+      "name":"name1",
+      "area":"area1"
+    },
+    {
+      "name":"name2",
+      "area":"area2"
+    },
+    {
+      "name":"name3",
+      "area":"area3"
+    },
+    {
+      "name":"name4",
+      "area":"area4"
+    }
+    ]
+  }
